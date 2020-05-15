@@ -33,11 +33,11 @@ try_files $uri $uri/ $uri.php?$args;
 
 ## 项目演示
 
-![preview](./Preview/homepageupper.png)
-![preview](./Preview/homepagecentre.png)
-![preview](./Preview/homepagebelow.png)
-![preview](./Preview/Interfacelist.png)
-![preview](./Preview/Interfacedocum.png)
+![preview](/Preview/homepageupper.png)
+![preview](/Preview/homepagecentre.png)
+![preview](/Preview/homepagebelow.png)
+![preview](/Preview/Interfacelist.png)
+![preview](/Preview/Interfacedocum.png)
 
 ## 其他
 
