@@ -33,8 +33,9 @@ try_files $uri $uri/ $uri.php?$args;
 
 ## 项目演示
 
-![preview](./navigationhome1.png)
-![preview](./navigationhome2.png)
+![preview](./Preview/homepageupper.png)
+![preview](./Preview/homepagecentre.png)
+![preview](./Preview/homepagebelow.png)
 ![preview](./Preview/Interfacelist.png)
 ![preview](./Preview/Interfacedocum.png)
 
