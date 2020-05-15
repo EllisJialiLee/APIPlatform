@@ -1,7 +1,7 @@
 <p align="center"><img src="./icon.png"
         alt="Logo" width="128" height="128" style="max-width: 100%;"></p>
 <h1 align="center">API接口平台</h1>
-<p align="center">API主页平台接口调用网站源码</p>
+<p align="center">API接口平台主页接口调用网站源码</p>
 
 ## 介绍说明
 
@@ -33,11 +33,11 @@ try_files $uri $uri/ $uri.php?$args;
 
 ## 项目演示
 
-![preview](/Preview/homepageupper.png)
-![preview](/Preview/homepagecentre.png)
-![preview](/Preview/homepagebelow.png)
-![preview](/Preview/Interfacelist.png)
-![preview](/Preview/Interfacedocum.png)
+![preview](/preview/homepageupper.png)
+![preview](/preview/homepagecentre.png)
+![preview](/preview/homepagebelow.png)
+![preview](/preview/Interfacelist.png)
+![preview](/preview/Interfacedocum.png)
 
 ## 其他
 
