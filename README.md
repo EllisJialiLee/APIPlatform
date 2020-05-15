@@ -22,8 +22,8 @@ try_files $uri $uri/ $uri.php?$args;
 + 独立信息文件
 ```bash
 在 /i/website.php 修改整站信息、顶部底部信息。
+主页的句子在 /js/page.js 里修改
 ```
-> 主页的句子在 /js/page.js 里修改
 + 附3款API空白文档
 ```bash
 /i/api/blank-1.php
